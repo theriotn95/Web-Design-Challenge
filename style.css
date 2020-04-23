@@ -5,7 +5,7 @@ body{
 
 .navbar{
     max-height: 50px; 
-	background-color: #cacccb; 
+	background-color: #46c988; 
     font-size: 15px; 
 }
 
@@ -23,7 +23,7 @@ body{
 }
 
 .dropdown-menu .dropdown-item:hover, .dropdown-menu .dropdown-item:active{
-    background-color:#d0e3e1; 
+    background-color:#59bfb5; 
 }
 
 .nav-link:hover{
@@ -33,7 +33,7 @@ body{
 
 @media (max-width: 991.98px){
 .navbar-expand-lg{
-	background-color: #51bbe8;
+	background-color: #42d76c;
 }
 .navbar{
     max-height: none; 
@@ -51,10 +51,7 @@ button{
     margin-left: auto; 
 }
 
-button:focus {
-    outline: 1px dotted;
-}
-}
+
 
 .description-content {
 	margin-top: 30px;
@@ -102,3 +99,4 @@ p{
     border-color:#51bbe8;
     border-style: solid; 
 }
+
