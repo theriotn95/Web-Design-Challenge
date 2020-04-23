@@ -50,7 +50,10 @@ body{
 button{
     margin-left: auto; 
 }
-
+button:focus {
+    outline: 1px dotted;
+}
+}
 
 
 .description-content {
